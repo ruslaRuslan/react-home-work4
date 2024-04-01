@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import viteLogo from '/vite.svg'
 import Testomonials from './components/index.jsx'
-
+import "./components/index.css"
 
 
 
